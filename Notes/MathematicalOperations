@@ -33,3 +33,11 @@ Then Addition and Subtraction are present and they will be executed from left to
 7.
 
 To understand how this code is being debugged by Python run this code on the #Thonny tool.
+
+
+Floor Division:
+8//3 -> 2
+
+Here the decimals are chopped off and number is rounded off using a floor function.
+type(8//3) -> int
+type(4/2) -> float  (This is a normal division)

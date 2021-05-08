@@ -1,0 +1,16 @@
+8/3
+
+This gives an output of 2.6666667
+
+round(8/3)
+
+This gives an output of 3.
+Here the output is being rounded off to the nearest integer.
+
+round(8/3, 2)
+
+We can specify the number of places to which it should be rounded off to.
+Now the output is 2.67
+
+
+round(2.66666666, 2) -> 2.67

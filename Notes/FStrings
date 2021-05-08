@@ -1,0 +1,11 @@
+score = 0  # int datatype
+height = 1.8 # float datatype
+isWinning = True # Boolean datatype
+
+# To print the above 3 variables in a single print statement one has to use type conversion using str 3 times
+# But by using f strings we can solve this
+print(f"your score is {score}, your height is {height}, you are winning is {isWinning}")
+
+
+To write an f string place an f in the start of the string.
+f strings eliminate a lot of the manual labour of type conversion 
