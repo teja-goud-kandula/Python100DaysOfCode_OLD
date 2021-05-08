@@ -1,0 +1,35 @@
+7 + 2
+5 - 3
+2 * 3
+6 / 2
+2 ** 3 (Exponential)
+
+Priority order is:
+PEMDAS
+Parentheses -> ()
+Exponents -> **
+Multiplication -> *
+Division -> /
+Addition -> +
+Subtraction -> -
+
+Multiplication and Division takes the same Priority. But they are executed from left to right.
+Addition and Subtraction also takes the same Priority. But they are executed from left to right.
+
+
+Ex : print (3 * 3 + 3 / 3 - 3)
+Ans : 7
+
+PEMDAS
+Here we don't have any Parentheses and Exponents.
+Then Multiplication and Division are present and they will be executed from left to right.
+3 * 3 + 3 / 3 - 3 becomes
+9     + 3 / 3 - 3 becomes
+9     + 1.0   - 3 becomes
+
+Then Addition and Subtraction are present and they will be executed from left to right.
+9     + 1.0   - 3 becomes
+10.0          - 3 becomes
+7.
+
+To understand how this code is being debugged by Python run this code on the #Thonny tool.
