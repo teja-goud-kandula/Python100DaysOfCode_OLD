@@ -1,0 +1,4 @@
+Numbers in US format are written as 123,456,789. For the purpose of readability comma is used. Similarly in python _ can be used.
+
+The same number in python can be written as 123_456_789
+Python will interpret it like any other number 
