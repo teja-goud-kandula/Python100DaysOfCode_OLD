@@ -1,0 +1,13 @@
+There are 2 types of functions.
+1. Language defined functions
+2. User defined functions
+
+
+creating a user defined function.
+
+def my_function():
+  print("Hello")
+  print("Bye")
+
+# Calling the function
+my_function()

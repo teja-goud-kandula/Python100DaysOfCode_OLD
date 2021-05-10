@@ -19,3 +19,7 @@ False
 Type Function
 
 Type function takes variable/data and returns the data type of variable/data.
+
+Lists -> []
+Ex :
+States_Of_America = ["Texas,"Florida","Alaska","Delaware"]
